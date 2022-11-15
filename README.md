@@ -1,4 +1,4 @@
-# Wheat Kernels Modeling
+# Wheat Kernel Modeling
 
 The data for this report comes from https://www.kaggle.com/dongeorge/seed-from-uci
 
